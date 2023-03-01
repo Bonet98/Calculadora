@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author redes - pongo un comentario desde GitHub
+ * @author redes - pongo un comentario desde Consola RAMA2 editado
  */
 public class Calculadora {
     private int num1;
