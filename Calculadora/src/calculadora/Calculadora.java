@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author redes - pongo un comentario desde Netbeans
+ * @author redes - pongo un comentario desde GitHub
  */
 public class Calculadora {
     private int num1;
