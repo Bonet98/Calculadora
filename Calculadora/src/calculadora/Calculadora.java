@@ -11,6 +11,7 @@ package calculadora;
  */
 
 // Cambio develop
+// Cambio desde GitHub en master
 public class Calculadora {
     private int num1;
     private int num2;
